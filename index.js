@@ -4,11 +4,11 @@
 var apis = {
     runara_api : {
         title: 'Runara API',
-        url: 'https://api.runara.io/status' //replace this with your own API endpoints
+        url: 'https://api.runara.io/status'
     },
     payments : {
         title: 'Payments Provider (Stripe)',
-        url: 'https://api.stripe.com/v1' //replace this with your own API endpoints
+        url: 'https://api.stripe.com/'
     },
     mailserver: {
         title: 'Email Service',
