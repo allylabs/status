@@ -8,7 +8,7 @@ var apis = {
     },
     payments : {
         title: 'Payments Provider (Stripe)',
-        url: 'https://api.stripe.com/'
+        url: 'https://www.stripe.com/'
     },
     mailserver: {
         title: 'Email Service',
