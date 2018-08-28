@@ -3,8 +3,8 @@
 //to host this site in the same domain as your API (and set `document.domain` correspondingly)
 var apis = {
     github : {
-        title: 'Github Public API (not our own but we couldnt live without it)',
-        url: 'https://api.github.com/users' //replace this with your own API endpoints
+        title: 'Runara API',
+        url: 'https://api.runara.io' //replace this with your own API endpoints
     }
 };
 
