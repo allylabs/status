@@ -4,7 +4,7 @@
 var apis = {
     github : {
         title: 'Runara API',
-        url: 'https://api.runara.io' //replace this with your own API endpoints
+        url: 'https://api.runara.io/status' //replace this with your own API endpoints
     }
 };
 
