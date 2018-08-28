@@ -6,8 +6,12 @@ var apis = {
         title: 'Runara API',
         url: 'https://api.runara.io/status' //replace this with your own API endpoints
     },
+    payments : {
+        title: 'Payments Provider (Stripe)',
+        url: 'https://api.stripe.com/v1' //replace this with your own API endpoints
+    },
     mailserver: {
-        title: 'Runara Email Service',
+        title: 'Email Service',
         url: 'https://api.mailgun.net/v3'
     }
 };
