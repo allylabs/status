@@ -6,10 +6,6 @@ var apis = {
         title: 'Runara API',
         url: 'https://api.runara.io/status'
     },
-    payments : {
-        title: 'Payments Provider (Stripe)',
-        url: 'https://www.stripe.com/'
-    },
     mailserver: {
         title: 'Email Service',
         url: 'https://api.mailgun.net/v3'
