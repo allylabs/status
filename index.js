@@ -7,7 +7,7 @@ var apis = {
         url: 'https://api.runara.io/status' //replace this with your own API endpoints
     },
     mailserver: {
-        title: 'Runar Email Server',
+        title: 'Runara Email Service',
         url: 'https://api.mailgun.net/v3'
     }
 };
