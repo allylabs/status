@@ -2,9 +2,13 @@
 //Please make sure that those endpoints allow crossdomain calls, or be sure
 //to host this site in the same domain as your API (and set `document.domain` correspondingly)
 var apis = {
-    github : {
+    runara_api : {
         title: 'Runara API',
         url: 'https://api.runara.io/status' //replace this with your own API endpoints
+    },
+    mailserver: {
+        title: 'Runar Email Server',
+        url: 'https://api.mailgun.net/v3'
     }
 };
 
