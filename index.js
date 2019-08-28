@@ -3,12 +3,12 @@
 //to host this site in the same domain as your API (and set `document.domain` correspondingly)
 var apis = {
     runara_api : {
-        title: 'Runara API',
-        url: 'https://api.runara.io/status'
+        title: 'AEM DEV AUTHOR',
+        url: 'https://author-ally-dev.adobecqms.net/'
     },
     mailserver: {
-        title: 'Email Service',
-        url: 'https://api.mailgun.net/v3'
+        title: 'AEM STAGE AUTHOR',
+        url: 'https://author-ally-stage.adobecqms.net/'
     }
 };
 
