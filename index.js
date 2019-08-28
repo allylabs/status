@@ -4,11 +4,11 @@
 var apis = {
     runara_api : {
         title: 'AEM DEV AUTHOR',
-        url: 'https://author-ally-dev.adobecqms.net/'
+        url: 'https://author-ally-dev.adobecqms.net/login/favicon.ico'
     },
     mailserver: {
         title: 'AEM STAGE AUTHOR',
-        url: 'https://author-ally-stage.adobecqms.net/'
+        url: 'https://author-ally-stage.adobecqms.net/login/favicon.ico'
     }
 };
 
